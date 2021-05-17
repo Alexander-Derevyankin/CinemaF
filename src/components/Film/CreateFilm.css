@@ -1,0 +1,16 @@
+.content-create {
+  display: flex;
+  width: 90%;
+  height: 90%;
+  margin-top: 20px;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.content__create-form {
+  display: flex;
+  width: 90%;
+  height: 90%;
+  margin-top: 20px;
+}
