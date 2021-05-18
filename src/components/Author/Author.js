@@ -3,8 +3,7 @@ import React from 'react';
 const Author = () => {
     return (
         <div>
-            Хватов Артур
-            ПИ19-1
+            Студент группы ПИ19-1 Деревянкин Александр Юрьевич.
         </div>
     );
 };
